@@ -1,5 +1,12 @@
 # ActiveShipping CHANGELOG
 
+### v1.4.1
+
+- Raise error on invalid status code with FedEx
+- Fix USPS tracking to certain countries
+- Fix USPS tracking of events with no time
+- Fix USPS batch tracking error messages.
+
 ### v1.4.0
 
 - Added support for USPS merchant returns service
